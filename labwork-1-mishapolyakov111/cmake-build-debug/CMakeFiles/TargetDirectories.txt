@@ -1,0 +1,3 @@
+C:/Users/misha/git/labwork-1-mishapolyakov111/cmake-build-debug/CMakeFiles/labwork1.dir
+C:/Users/misha/git/labwork-1-mishapolyakov111/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/misha/git/labwork-1-mishapolyakov111/cmake-build-debug/CMakeFiles/rebuild_cache.dir
